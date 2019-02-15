@@ -5,4 +5,8 @@
   
   image_angle = direction;
   
-if (hp <= 0) instance_destroy();
+if (hp <= 0) 
+{
+   with (obj_score) thescore = thescore + 5; 
+     instance_destroy();
+}
