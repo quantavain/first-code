@@ -8,5 +8,7 @@
 if (hp <= 0) 
 {
    with (obj_score) thescore = thescore + 5; 
-     instance_destroy();
+     audio_sound_pitch(snd_death2,random_range(0.8,1.2))
+	 audio_play_sound(snd_death2,0,0);
+	 instance_destroy();
 }
