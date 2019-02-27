@@ -7,7 +7,7 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-
+        "11bdf333-af05-4931-922e-ee5ea93e1344"
     ],
     "IsDnD": false,
     "layers": [
@@ -25,7 +25,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_6D9F547","id": "11bdf333-af05-4931-922e-ee5ea93e1344","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6D9F547","objId": "4b750452-e13d-4056-a5e7-7b76f128dc5b","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 510,"y": 399}
             ],
             "layers": [
 
@@ -62,7 +62,7 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "spriteId": "1123a050-c2d1-40fe-ae1d-2f504de1648f",
+            "spriteId": "61766d7b-24b1-4ce8-a711-3cab1cad9c52",
             "stretch": false,
             "userdefined_animFPS": false,
             "userdefined_depth": false,
